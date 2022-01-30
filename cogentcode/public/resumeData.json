@@ -2,9 +2,9 @@
   "main": {
     "name": "Johannes Chitura",
     "occupation": "Full Stack Software Engineer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": " I am currently transitioning from the education sector to software engineering and concurrently working on some side projects. I am pasionate about writing clear and logical code hence the name, Cogent Code",
     "image": "johannes_profile_pic.jpeg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "Most of the issues faced by African countries will be resolved by utilizing technology. Software Engineers will be central in this process. This realization and the desire to take part in a personal rebirth to mirror the renascence of Africa, prompted me to pursue a career in Software Engineering. I am privileged to hold executive leadership positions in the education sector as well as to have experience as a licensed commercial pilot. My approach as a developer is heavily influenced by my skills gained as a leader and pilot as well as my unique perspective as a third-culture individual. I approach each story in the Agile Methodology with the end user in mind. My go-to technology is the MERN stack, though I am by no means limited to these technologies. I am a lifelong learner and I find joy in learning new paths to solutions.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "johanneschitura@gmail.com",
     "phone": "706-676-6893",
@@ -15,7 +15,7 @@
       "zip": "30701"
     },
     "website": "http://cogentcode.dev",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://docs.google.com/document/d/1cWm6a62fpRCW3pztzqMofDAbPUuTMLh9Rgnz95o__gM/edit",
     "social": [
       {
         "name": "twitter",
@@ -137,12 +137,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "If i was asked to select one person from my cohort , who had went above and beyond to not only support but educate those around , It would be Johannes.With no hesitation, smile and eager to help with any task . Helped iterate the topics to make sure everyone understood material , an felt comfortable. As a busy father and student. Never once did I ever get the sense I was ever a bother or interruption if i need to ask for help,. He always made time to schedule a meet up , no mater how busy the day got. 100% reliable.",
+        "user": "Adam Olsey - Full Stack Web Developer"
       }
     ]
   }
